@@ -33,7 +33,7 @@ It aids in the cleanup of a dataset. It improves your understanding of the varia
 
  This project extracts, cleans and visualizes the dataset from a sample superstore. IDE used is Jupyter notebook. The link to the dataset used in this task was obtained from https://bit.ly/3i4rbWl
 
-2. [Exploratory Data Analysis on a global terrorism dataset](https://github.com/Temiwaji/Data-Science-Projects/blob/main/TSF-%20Task%204.pdf)
+2. [Exploratory Data Analysis on a global terrorism dataset](https://github.com/Temiwaji/Data-Science-Projects/blob/main/EDA%20Projects/TSF%20-%20Task%204/TSF-%20Task%204.pdf)
 
 This project extracts, cleans, analysis and visualizes the dataset of global terrorism. The link to the dataset used in this task was obtained from https://bit.ly/2TK5Xn5 Ms Excel was used in analysis and and a dashboard was created for the visualization of the dataset. The Excel workbook and a pdf file have also been attached.
 
