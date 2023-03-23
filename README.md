@@ -40,7 +40,7 @@ This project extracts, cleans, analysis and visualizes the dataset of global ter
 - ### Data Visualization Projects
 
 Data analysis involves analyzing data and drawing conclusions based on the data. The main goal of data visualization is to make it easier to identify patterns and trends in a given dataset.
-1. [Riby Financials](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Riby%20Assignment_Nwajiunor%20Edgar_Group%205.pdf)
+1. [Riby Financials](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Data%20Visualization%20Projects/Riby%20Financials%20Dataset/Riby%20Assignment_Nwajiunor%20Edgar_Group%205.pdf)
 
 This task is on data analysis and data visualization on a fintech dataset. The objective of this task was to use visualizations to represent insights. PowerBI was used for analysis and visualization of the dataset. The PowerBI raw file and a pdf file(for presentation purposes) have been attached.
 
