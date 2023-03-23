@@ -23,4 +23,10 @@ This task is on prediction using unsupervised machine learning to predict the op
 For K-means clustering, the elbow method was used. The optimum number of clusters identified was 3. Data points points were visualized in different clusters with 3 different colours. Matplotlib was used to visualize the data. IDE used; Jupiter Notebook
 
 - ### Exploratory Data Analysis Projects
-1. [An Exploratory Data Analysis of a sample superstore dataset- Retail]()
+1. [Exploratory Data Analysis of a sample superstore dataset- Retail](https://github.com/Temiwaji/Data-Science-Projects/blob/main/TSF-%20Task%203.ipynb)
+
+Exploratory Data Analysis (EDA) is a method for better understanding your data and assisting in subsequent data preprocessing. It is the critical process of conducting preliminary data investigations to discover patterns, identify anomalies, test hypotheses, and validate assumptions using summary statistics and graphical representations. Exploratory Data Analysis (EDA) is a step in the Data Analysis Process that employs a variety of techniques to better understand the dataset under consideration. Exploratory Data Analysis accomplishes two major tasks:
+
+It aids in the cleanup of a dataset. It improves your understanding of the variables and their relationships. EDA assists in gathering insights and making better sense of data, as well as removing irregularities and unnecessary values from data, aids in preparing dataset for analysis, enables a machine learning model to predict dataset more accurately. It also aids in the selection of a better machine learning model. This project extracts, cleans and visualizes the dataset from a sample superstore. The link to the dataset used in this task was obtained from https://bit.ly/3i4rbWl
+
+IDE used is Jupyter notebook.
