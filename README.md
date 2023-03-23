@@ -18,7 +18,7 @@ This is task is on prediction using supervised machine learning to predict the p
 
 Upon loading the dataset and plotting the distribution scores, it is observed that there is a positive linear relationship between the no. of hours studied and percentage scored. The prediction shows that the percentage score of a student who studies for 9.25 hours is 92.7%
 
-3. [Unsupervised Machine Learning](https://github.com/Temiwaji/Data-Science-Projects/blob/main/TSF%20Task%202-%20Unsupervised%20Machine%20Learning.ipynb)
+3. [Unsupervised Machine Learning](https://github.com/Temiwaji/Data-Science-Projects/blob/main/ML%20Projects/TSF%20Task%202-%20Unsupervised%20Machine%20Learning.ipynb)
 
 This task is on prediction using unsupervised machine learning to predict the optimum number of clusters and represent it visually. This is a K-means clustering algorithm task. The dataset used was obtained from https://bit.ly/3kXTdox
 
