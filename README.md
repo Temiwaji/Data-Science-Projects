@@ -40,5 +40,6 @@ Data analysis and data visualization on a fintech dataset is found in this repos
 
 The objective of this task was to use visualizations to represent insights. PowerBI was used for analysis and visualization of the dataset. The PowerBI raw file and a pdf file(for presentation purposes) have been attached.
 
-2. [Mental Health Product]()
+2. [Mental Health Product](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Mental%20health%20product%20survey_%20Updated_1.pdf)
+
 Collaborated with a team of young women on a mental health product for women in Africa. The objective of this task was to analyse and visualize data gotten from respondents of a survey. Power BI was used for analysis and visualization of the dataset. he PowerBI raw file and a pdf file(for presentation purposes) have been attached.
