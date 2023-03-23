@@ -4,6 +4,8 @@ This is a collection of Data Science projects I have worked on.
 ## Contents
 
 - ### ML Projects
+
+Machine learning is a branch of artificial intelligence (AI) and computer science that focuses on using data and algorithms to mimic how humans learn and improve accuracy over time. Machine learning works all around us. As we interact with our banks, shop online, and use social media, machine learning algorithms come into play to make our experience efficient, smooth and secure. 
 1. [Amazon Business Reasearch Restaurant Case Study](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Amazon%20Business%20Research%20Analyst%20Dataset.ipynb)
 
 Food is an essential need for man's survival. Everyone of us at certain points has either had a best food or cravings for certain kinds of foods and would most likely go to any length to get it either by cooking or eating out. Some of the objectives we considered in thise project include; What food customers like the most? Does weather influence what people eat? What is the preferred mode of transportation used by the restaurant? What time do people pick their orders most? What is the correlation between days of the week with respect to the type of vehicle used to deliver food and the distance covered]?
