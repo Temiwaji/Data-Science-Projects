@@ -12,7 +12,7 @@ Food is an essential need for man's survival. Everyone of us at certain points h
 
 This is a restaurant case study on amazon business research. Collaborated with 8 other young women on this group project. The notebook on this research has more details and answers the needed qustions. Also included is a presentation file.
 
-2. [Supervised Machine Learning](https://github.com/Temiwaji/Data-Science-Projects/blob/main/TSF%20Task%201.ipynb)
+2. [Supervised Machine Learning](https://github.com/Temiwaji/Data-Science-Projects/blob/main/ML%20Projects/TSF%20Task%201.ipynb)
 
 This is task is on prediction using supervised machine learning to predict the percentage of scores of a student based on the no. of hours. This is a simple linear regression task as it involves just 2 variables(i.e, hours and scores). Dataset used was obtained from http://bit.ly/w-data
 
