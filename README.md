@@ -38,6 +38,7 @@ This project extracts, cleans, analysis and visualizes the dataset of global ter
 
 Data analysis and data visualization on a fintech dataset is found in this repository. Data analysis involves analyzing data and drawing conclusions based on the data. The main goal of data visualization is to make it easier to identify patterns and trends in a given dataset.
 
-The objective of this task was to use visualizations to represent insights. PowerBI was used for analysis and visualization of the dataset.
+The objective of this task was to use visualizations to represent insights. PowerBI was used for analysis and visualization of the dataset. The PowerBI raw file and a pdf file(for presentation purposes) have been attached.
 
-The PowerBI raw file and a pdf file(for presentation purposes) have been attached.
+2. [Mental Health Product]()
+Collaborated with a team of young women on a mental health product for women in Africa. The objective of this task was to analyse and visualize data gotten from respondents of a survey. Power BI was used for analysis and visualization of the dataset. he PowerBI raw file and a pdf file(for presentation purposes) have been attached.
