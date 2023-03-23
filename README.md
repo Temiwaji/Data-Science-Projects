@@ -10,5 +10,5 @@ Food is an essential need for man's survival. Everyone of us at certain points h
 
 This is a restaurant case study on amazon business research. Collaborated with 8 other young women on this group project. The notebook on this research has more details and answers the needed qustions. Also included is a presentation file.
 
-2. Supervised Machine Learning
+2. [Supervised Machine Learning]()
 3. Unsupervised Machine Learning
