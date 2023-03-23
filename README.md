@@ -33,7 +33,7 @@ It aids in the cleanup of a dataset. It improves your understanding of the varia
 
 This project extracts, cleans, analysis and visualizes the dataset of global terrorism. The link to the dataset used in this task was obtained from https://bit.ly/2TK5Xn5 Ms Excel was used in analysis and and a dashboard was created for the visualization of the dataset. The Excel workbook and a pdf file have also been attached.
 
-- Data Visualization Projects
+- ### Data Visualization Projects
 1. [Riby Financials](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Riby%20Assignment_Nwajiunor%20Edgar_Group%205.pdf)
 
 Data analysis and data visualization on a fintech dataset is found in this repository. Data analysis involves analyzing data and drawing conclusions based on the data. The main goal of data visualization is to make it easier to identify patterns and trends in a given dataset.
