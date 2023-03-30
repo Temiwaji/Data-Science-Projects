@@ -26,7 +26,7 @@ For K-means clustering, the elbow method was used. The optimum number of cluster
 
 4. [Car Prices Dataset](https://github.com/Temiwaji/Data-Science-Projects/blob/main/ML%20Projects/Car%20Prices%20Dataset.ipynb)
 
-This task is on prediction of prices of different cars on a car price dataset. Collaborated with 8 other young women on this project. IDE used a Jupyter Notebook.
+This task is on prediction of prices of different cars on a car price dataset. Collaborated with 8 other young women on this project. IDE used is Jupyter Notebook.
 
 - ### Exploratory Data Analysis Projects
 
