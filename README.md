@@ -24,9 +24,9 @@ This task is on prediction using unsupervised machine learning to predict the op
 
 For K-means clustering, the elbow method was used. The optimum number of clusters identified was 3. Data points points were visualized in different clusters with 3 different colours. Matplotlib was used to visualize the data. IDE used is Jupyter Notebook
 
-4. [Car Prices Dataset](https://github.com/Temiwaji/Data-Science-Projects/blob/main/ML%20Projects/Car%20prices%20dataset.ipynb)
+4. [Car Prices Dataset](https://github.com/Temiwaji/Data-Science-Projects/blob/main/ML%20Projects/Car%20Prices%20Dataset.ipynb)
 
-This task is on 
+This task is on prediction of prices of different cars on a car price dataset. Collaborated with 8 other young women on this project. IDE used a Jupyter Notebook.
 
 - ### Exploratory Data Analysis Projects
 
