@@ -51,3 +51,13 @@ This task is on data analysis and data visualization on a fintech dataset. The o
 2. [Mental Health Product](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Data%20Visualization%20Projects/Mental%20Health%20Product/Mental%20health%20product%20survey_%20Updated_1.pdf)
 
 Collaborated with a team of young women on a mental health product for women in Africa. The objective of this task was to analyse and visualize data gotten from respondents of a survey. Power BI was used for analysis and visualization of the dataset. he PowerBI raw file and a pdf file(for presentation purposes) have been attached.
+
+-### Hackathons
+
+Hackathons are a fantastic opportunity to learn new skills, where participants develop new approaches to solving problems or completing large projects that require collaboration. 
+1. [Exploring the FIFA Women's World Cup Stats dataset]()
+
+Collaborated with a teammate to explore the dataset, formulate a research focus which was "How The FIFA Women's World Cup Game Has Evolved", analyze the data, create a compelling visualization, and presente the research in a powerpoint presentation. The Python programming language was used to handle the data cleaning processes, and steps were documented in a Python notebook. PowerBI was used to derive analytical insights, visualization, and to design the dashboard.
+
+I have attached a copy of the python notebook, PowerBI rawfile, dashboard in form of a poster, and a powerpoint presentation file.
+
