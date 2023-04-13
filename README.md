@@ -55,7 +55,7 @@ Collaborated with a team of young women on a mental health product for women in 
 -### Hackathons
 
 Hackathons are a fantastic opportunity to learn new skills, where participants develop new approaches to solving problems or completing large projects that require collaboration. 
-1. [Exploring the FIFA Women's World Cup Stats dataset]()
+1. [Exploring the FIFA Women's World Cup Stats dataset](https://github.com/Temiwaji/Data-Science-Projects/tree/main/Hackathons/FIFA%20Women's%20World%20Cup%20Stats%20Dataset)
 
 Collaborated with a teammate to explore the dataset, formulate a research focus which was "How The FIFA Women's World Cup Game Has Evolved", analyze the data, create a compelling visualization, and presente the research in a powerpoint presentation. The Python programming language was used to handle the data cleaning processes, and steps were documented in a Python notebook. PowerBI was used to derive analytical insights, visualization, and to design the dashboard.
 
