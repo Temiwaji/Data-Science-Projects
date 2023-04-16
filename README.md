@@ -52,7 +52,7 @@ This task is on data analysis and data visualization on a fintech dataset. The o
 
 Collaborated with a team of young women on a mental health product for women in Africa. The objective of this task was to analyse and visualize data gotten from respondents of a survey. Power BI was used for analysis and visualization of the dataset. he PowerBI raw file and a pdf file(for presentation purposes) have been attached.
 
--### Hackathons
+- ### Hackathons
 
 Hackathons are a fantastic opportunity to learn new skills, where participants develop new approaches to solving problems or completing large projects that require collaboration. 
 1. [Exploring the FIFA Women's World Cup Stats dataset](https://github.com/Temiwaji/Data-Science-Projects/tree/main/Hackathons/FIFA%20Women's%20World%20Cup%20Stats%20Dataset)
