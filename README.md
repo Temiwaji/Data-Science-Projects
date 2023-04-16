@@ -59,5 +59,5 @@ Hackathons are a fantastic opportunity to learn new skills, where participants d
 
 Collaborated with a teammate to explore the dataset, formulate a research focus which was "How The FIFA Women's World Cup Game Has Evolved", analyze the data, create a compelling visualization, and presente the research in a powerpoint presentation. The Python programming language was used to handle the data cleaning processes, and steps were documented in a Python notebook. PowerBI was used to derive analytical insights, visualization, and to design the dashboard.
 
-I have attached a copy of the python notebook, PowerBI rawfile, dashboard in form of a poster, and a powerpoint presentation file.
+A copy of the python notebook, PowerBI rawfile, dashboard in form of a poster, and a powerpoint presentation file have been attached.
 
