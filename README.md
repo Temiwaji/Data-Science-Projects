@@ -28,7 +28,7 @@ For K-means clustering, the elbow method was used. The optimum number of cluster
 
 This task is on prediction of prices of different cars on a car price dataset. Collaborated with 8 other young women on this project. IDE used is Jupyter Notebook.
 
-5. [2023 UCL Final Clash Between Manchester City And University](https://github.com/Temiwaji/Data-Science-Projects/tree/main/ML%20Projects/UCL%20Finals'23)
+5. [2023 UCL Final Clash Between Manchester City And Inter Milan](https://github.com/Temiwaji/Data-Science-Projects/tree/main/ML%20Projects/UCL%20Finals'23)
 
 This task is on training a machine learning model to predict the winner of the 2023 UCL final clash between Manchester City and Inter Milan. It extracts match results from the UEFA Champions League, UCL on FBref.com (a website devoted to tracking statistics for football teams and players from around the world) using web scraping, clean and visualize the dataset obtained from UCL stats using pandas. The UCL also known as the UEFA Champions league is one of the most prestigious tournaments in all of sports. It is a soccer tournament of 32 teams that compete in five rounds for the right to be crowned the best club in European soccer. The project processes include data extraction, data cleaning and training the model. IDE used is the Jupyter Notebook.
 Also a chatbot called Predictbot was trained to have a football conversation with a football enthusiast using VS Code IDE. The json file and python files, as well as images of the conversation have been attached. 
