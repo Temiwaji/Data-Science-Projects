@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {"tag": "introduction",
+     "patterns": [
+     "Who do you think will win the Champions league today?"
+      ],
+      "responses": ["Well, if I had a crystal ball, I'd give you a definite answer. However, Manchester City does seem to be favorites. They've been unstoppable in their run to win their third Premier League title in a row, tipping those bottlers called Arsenal.\n\n 'Warra UCL for City' is most likely going to end today."],
+      "context": [""]
+    },
+    {"tag": "bants",
+     "patterns": ["Why would you call Arsenal bottlers? They didn't bottle it."],
+     "responses": ["Seems like you are an Arsenal fan."],
+     "context": [""]
+    },
+    {"tag": "bants continued",
+     "patterns": ["Yes, I am so I don't consider that funny."],
+     "responses": ["Spending 246 nights top of the Premier League, leading with 8 points and 8 games to go is bottling."],
+     "context": [""]
+    },
+    {
+      "tag": "closing remarks",
+      "patterns": ["Thought you were trained to be respectful."
+      ],
+      "responses": ["Thought it was also lonely at the top."],
+      "context": [""]
+    }
+  ]
+}
