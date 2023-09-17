@@ -68,7 +68,8 @@ A copy of the python notebook, PowerBI rawfile, dashboard in form of a poster, a
 
 - ### Rmd
 [Fraud Detection for Online Payment Platform](https://github.com/Temiwaji/Data-Science-Projects/tree/main/Rmd)
-This folder hosts the DataFest Africa Datathon. This project will extract, clean and visualize the dataset obtained from an online payment platform using pandas. The dataset represents transactions and user-related data collected over time from our platform. Fraud detection is a set of activities undertaken to prevent money or property from being obtained through false pretenses. Fraud detection is essential for companies to safeguard their customers' transactions and accounts by detecting fraud before or as it happens. The primary goal of the project is to develop an advanced predictive model to identify potentially fraudulent transactions. The project processes include;
+
+This folder hosts the DataFest Africa Datathon project. This project extracts, cleans and visualizes the dataset obtained from an online payment platform using pandas. The dataset represents transactions and user-related data collected over time from our platform. Fraud detection is a set of activities undertaken to prevent money or property from being obtained through false pretenses. Fraud detection is essential for companies to safeguard their customers' transactions and accounts by detecting fraud before or as it happens. The primary goal of the project is to develop an advanced predictive model to identify potentially fraudulent transactions. The project processes include;
 
 Data Extraction
 Data Cleaning
