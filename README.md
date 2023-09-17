@@ -66,3 +66,6 @@ Collaborated with a teammate to explore the dataset, formulate a research focus 
 
 A copy of the python notebook, PowerBI rawfile, dashboard in form of a poster, and a powerpoint presentation file have been attached.
 
+- ### Rmd
+This folder hosts the DataFest Africa Datathon.  
+
