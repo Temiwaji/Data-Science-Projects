@@ -67,5 +67,13 @@ Collaborated with a teammate to explore the dataset, formulate a research focus 
 A copy of the python notebook, PowerBI rawfile, dashboard in form of a poster, and a powerpoint presentation file have been attached.
 
 - ### Rmd
-This folder hosts the DataFest Africa Datathon.  
+
+This folder hosts the DataFest Africa Datathon. This project will extract, clean and visualize the dataset obtained from an online payment platform using pandas. The dataset represents transactions and user-related data collected over time from our platform. Fraud detection is a set of activities undertaken to prevent money or property from being obtained through false pretenses. Fraud detection is essential for companies to safeguard their customers' transactions and accounts by detecting fraud before or as it happens. The primary goal of the project is to develop an advanced predictive model to identify potentially fraudulent transactions. The project processes include;
+
+Data Extraction
+Data Cleaning
+Data Exploration and Analysis
+Feature Engineering
+Model Evaluation
+Fine tuning
 
