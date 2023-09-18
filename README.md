@@ -77,3 +77,5 @@ Feature Engineering;
 Model Evaluation;
 Fine tuning
 
+- ### ML Zoomcamp 
+This folder hosts all projects and homework for the ML Zoomcamp.
