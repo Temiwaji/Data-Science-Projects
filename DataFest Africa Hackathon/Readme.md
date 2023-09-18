@@ -1,1 +1,1 @@
-This is a Standalone project for the DataFest Africa Datathon 2023. The project's processes include; Data Extraction; Data Cleaning; Data Exploration and Analysis; Feature Engineering; Model Evaluation; Fine tuning.
+This is a stand-alone project for the DataFest Africa Datathon 2023. The project's processes include; Data Extraction; Data Cleaning; Data Exploration and Analysis; Feature Engineering; Model Evaluation; Fine tuning.
