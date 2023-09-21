@@ -83,6 +83,6 @@ This is a four-month-long program to get started with machine learning engineeri
 ### Python Data Analysis Course
 
 The python Data Analysis Course is a comprehensive course with real-world hands-on projects on the Udemy learning platform. The link to the course; https://www.udemy.com/course/bigdata-analysis-python/?couponCode=NEW1_SEPT9_PROJECTS
-1. [Weather Data Analysis]()
+1. [Weather Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/tree/main/Python%20Data%20Analysis%20Course/Project%201)
 
 This folder contains the weather data analysis project including the dataset used. The Weather Dataset is a time-series data set with per-hour information about the weather conditions at a particular location.
