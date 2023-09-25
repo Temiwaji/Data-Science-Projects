@@ -85,4 +85,8 @@ This is a four-month-long program to get started with machine learning engineeri
 The python Data Analysis Course is a comprehensive course with real-world hands-on projects on the Udemy learning platform. The link to the course; https://www.udemy.com/course/bigdata-analysis-python/?couponCode=NEW1_SEPT9_PROJECTS
 1. [Weather Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/tree/main/Python%20Data%20Analysis%20Course/Project%201)
 
-This folder contains the weather data analysis project including the dataset used. The Weather Dataset is a time-series data set with per-hour information about the weather conditions at a particular location.
+This folder contains the weather data analysis project including the dataset used. The weather dataset is a time-series data set with per-hour information about the weather conditions at a particular location.
+
+2. [Car Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Python%20Data%20Analysis%20Course/Project%202/CAR%20DATA%20ANALYSIS_PROJECT%202.ipynb)
+
+This folder contains the car data analysis project including the dataset used. The car dataset is a trove of information about various cars, including details like make, model, engine size, number of cylinders and much more.
