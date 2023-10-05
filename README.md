@@ -91,8 +91,10 @@ This folder contains the weather data analysis project including the dataset use
 
 This folder contains the car data analysis project including the dataset used. The car dataset is a trove of information about various cars, including details like make, model, engine size, number of cylinders and much more.
 
-3. [Police Data Analysis]()
+3. [Police Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Python%20Data%20Analysis%20Course/Project%203/POLICE%20DATA%20ANALYSIS_PROJECT%203.ipynb)
 
-4. [Covid-19 Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Python%20Data%20Analysis%20Course/Project%204/COVID-19%20DATA%20ANALYSIS.ipynb)
+This folder contains the police data analysis project. The police dataset contains data from a police checkpost.
+
+5. [Covid-19 Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Python%20Data%20Analysis%20Course/Project%204/COVID-19%20DATA%20ANALYSIS.ipynb)
 
 This folder contains the covid-19 data analysis project. It contains a small dataset of Covid-19, just for understaning purposes. The data used here is till 29-April-2020 and has records as on 29-April-2020.
