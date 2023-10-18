@@ -33,6 +33,10 @@ This task is on prediction of prices of different cars on a car price dataset. C
 This task is on training a machine learning model to predict the winner of the 2023 UCL final clash between Manchester City and Inter Milan. It extracts match results from the UEFA Champions League, UCL on FBref.com (a website devoted to tracking statistics for football teams and players from around the world) using web scraping, clean and visualize the dataset obtained from UCL stats using pandas. The UCL also known as the UEFA Champions league is one of the most prestigious tournaments in all of sports. It is a soccer tournament of 32 teams that compete in five rounds for the right to be crowned the best club in European soccer. The project processes include data extraction, data cleaning and training the model. IDE used is the Jupyter Notebook.
 Also a chatbot called Predictbot was trained to have a football conversation with a football enthusiast using VS Code IDE. The json file and python files have been attached. 
 
+6. [Penguins](https://github.com/Temiwaji/Data-Science-Projects/tree/main/ML%20Projects/Penguins%20Dataset)
+
+   This folder contains data analysis and model building for a dataset spanning from 2007 to 2009, focusing on penguins from the Torgersen, Biscoe, and Dream islands. The journey was nothing short of amazing!
+
 - ### Exploratory Data Analysis Projects
 
 Exploratory Data Analysis (EDA) is a method for better understanding your data and assisting in subsequent data preprocessing. It is the critical process of conducting preliminary data investigations to discover patterns, identify anomalies, test hypotheses, and validate assumptions using summary statistics and graphical representations. Exploratory Data Analysis (EDA) is a step in the Data Analysis Process that employs a variety of techniques to better understand the dataset under consideration. Exploratory Data Analysis accomplishes two major tasks:
@@ -95,6 +99,6 @@ This folder contains the car data analysis project including the dataset used. T
 
 This folder contains the police data analysis project. The police dataset contains data from a police checkpost.
 
-5. [Covid-19 Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Python%20Data%20Analysis%20Course/Project%204/COVID-19%20DATA%20ANALYSIS.ipynb)
+4. [Covid-19 Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Python%20Data%20Analysis%20Course/Project%204/COVID-19%20DATA%20ANALYSIS.ipynb)
 
 This folder contains the covid-19 data analysis project. It contains a small dataset of Covid-19, just for understaning purposes. The data used here is till 29-April-2020 and has records as on 29-April-2020.
