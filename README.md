@@ -35,7 +35,7 @@ Also a chatbot called Predictbot was trained to have a football conversation wit
 
 6. [Penguins](https://github.com/Temiwaji/Data-Science-Projects/tree/main/ML%20Projects/Penguins%20Dataset)
 
-   This folder contains data analysis and model building for a dataset spanning from 2007 to 2009, focusing on penguins from the Torgersen, Biscoe, and Dream islands. The journey was nothing short of amazing!
+This folder contains data analysis and model building for a dataset spanning from 2007 to 2009, focusing on penguins from the Torgersen, Biscoe, and Dream islands. The journey was nothing short of amazing! The process involved a series of crucial steps: Data Extraction, Data Cleaning, Data Analysis, Data Interpretation, and model building. Penguins never cease to amaze, and through data analysis, more of their captivating world was unconvered. Find the data analysis and model building notebooks, as well as the dataset used in this folder. 
 
 - ### Exploratory Data Analysis Projects
 
