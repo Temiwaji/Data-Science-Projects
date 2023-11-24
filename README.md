@@ -88,20 +88,20 @@ This is a four-month-long program to get started with machine learning engineeri
 The python Data Analysis Course is a comprehensive course with real-world hands-on projects on the Udemy learning platform. The link to the course; https://www.udemy.com/course/bigdata-analysis-python/?couponCode=NEW1_SEPT9_PROJECTS
 1. [Weather Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/tree/main/Python%20Data%20Analysis%20Course/Project%201)
 
-This folder contains the weather data analysis project including the dataset used. The weather dataset is a time-series data set with per-hour information about the weather conditions at a particular location.
+This contains the weather data analysis project including the dataset used. The weather dataset is a time-series data set with per-hour information about the weather conditions at a particular location.
 
 2. [Car Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Python%20Data%20Analysis%20Course/Project%202/CAR%20DATA%20ANALYSIS_PROJECT%202.ipynb)
 
-This folder contains the car data analysis project including the dataset used. The car dataset is a trove of information about various cars, including details like make, model, engine size, number of cylinders and much more.
+This contains the car data analysis project including the dataset used. The car dataset is a trove of information about various cars, including details like make, model, engine size, number of cylinders and much more.
 
 3. [Police Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Python%20Data%20Analysis%20Course/Project%203/POLICE%20DATA%20ANALYSIS_PROJECT%203.ipynb)
 
-This folder contains the police data analysis project. The police dataset contains data from a police checkpost.
+This contains the police data analysis project. The police dataset contains data from a police checkpost.
 
 4. [Covid-19 Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Python%20Data%20Analysis%20Course/Project%204/COVID-19%20DATA%20ANALYSIS.ipynb)
 
-This folder contains the covid-19 data analysis project. It contains a small dataset of Covid-19, just for understaning purposes. The data used here is till 29-April-2020 and has records as on 29-April-2020.
+This contains the covid-19 data analysis project. It contains a small dataset of Covid-19, just for understaning purposes. The data used here is till 29-April-2020 and has records as on 29-April-2020.
 
-5. [London Housing Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/tree/main/Python%20Data%20Analysis%20Course/Project%205)
+5. [London Housing Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Python%20Data%20Analysis%20Course/Project%205/LONDON%20HOUSING%20DATA%20ANALYSIS_PROJECT%205.ipynb)
 
-This folder contains the London Housing data analysis project.It contains a dataset is primarily centered around the housing market of London with relevant data such as monthly average house prices, yearly number of houses sold and monthly number of crimes committed. 
+This contains the London Housing data analysis project.It contains a dataset is primarily centered around the housing market of London with relevant data such as monthly average house prices, yearly number of houses sold and monthly number of crimes committed. 
