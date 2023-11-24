@@ -104,4 +104,4 @@ This contains the covid-19 data analysis project. It contains a small dataset of
 
 5. [London Housing Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Python%20Data%20Analysis%20Course/Project%205/LONDON%20HOUSING%20DATA%20ANALYSIS_PROJECT%205.ipynb)
 
-This contains the London Housing data analysis project.It contains a dataset is primarily centered around the housing market of London with relevant data such as monthly average house prices, yearly number of houses sold and monthly number of crimes committed. 
+This contains the London Housing data analysis project. It contains a dataset is primarily centered around the housing market of London with relevant data such as monthly average house prices, yearly number of houses sold and monthly number of crimes committed. 
