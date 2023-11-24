@@ -101,3 +101,7 @@ This folder contains the police data analysis project. The police dataset contai
 4. [Covid-19 Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Python%20Data%20Analysis%20Course/Project%204/COVID-19%20DATA%20ANALYSIS.ipynb)
 
 This folder contains the covid-19 data analysis project. It contains a small dataset of Covid-19, just for understaning purposes. The data used here is till 29-April-2020 and has records as on 29-April-2020.
+
+5. [London Housing Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/tree/main/Python%20Data%20Analysis%20Course/Project%205)
+
+This folder contains the London Housing data analysis project.It contains a dataset is primarily centered around the housing market of London with relevant data such as monthly average house prices, yearly number of houses sold and monthly number of crimes committed. 
