@@ -104,4 +104,8 @@ This contains the covid-19 data analysis project. It contains a small dataset of
 
 5. [London Housing Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Python%20Data%20Analysis%20Course/Project%205/LONDON%20HOUSING%20DATA%20ANALYSIS_PROJECT%205.ipynb)
 
-This contains the London Housing data analysis project. It contains a dataset is primarily centered around the housing market of London with relevant data such as monthly average house prices, yearly number of houses sold and monthly number of crimes committed. 
+This contains the London housing data analysis project. It contains a dataset is primarily centered around the housing market of London with relevant data such as monthly average house prices, yearly number of houses sold and monthly number of crimes committed. 
+
+6. [India Census Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Python%20Data%20Analysis%20Course/Project%206/INDIA%20CENSUS%20DATA%20ANALYSIS_PROJECT%206.ipynb)
+
+This contains the India census data analysis project. The dataset originates from the 2011 India Census for each district and is presented in CSV format, sourced from Kaggle. It encompasses information on the total population, demography, literacy, districts, states, workers, religion, education, and age in India.
