@@ -109,3 +109,7 @@ This contains the London housing data analysis project. It contains a dataset is
 6. [India Census Data Analysis](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Python%20Data%20Analysis%20Course/Project%206/INDIA%20CENSUS%20DATA%20ANALYSIS_PROJECT%206.ipynb)
 
 This contains the India census data analysis project. The dataset originates from the 2011 India Census for each district and is presented in CSV format, sourced from Kaggle. It encompasses information on the total population, demography, literacy, districts, states, workers, religion, education, and age in India.
+
+7. [Udemy DATA ANALYSIS](https://github.com/Temiwaji/Data-Science-Projects/blob/main/Python%20Data%20Analysis%20Course/Project%207/UDEMY%20DATA%20ANALYSIS%20DATA%20ANALYSIS_PROJECT%207.ipynb)
+
+This contains the Udemuy Course data analysis project. This dataset provides a comprehensive compilation of course-related information, encompassing a wide array of subjects available on the Udemy platform. It includes detailed data on courses spanning diverse topics, ensuring a thorough representation of the educational offerings within the Udemy ecosystem.
